@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+.mquey{
+	padding: 50px 0;
+}
+.container{
+	width: 960px;
+	margin: 0 auto;
+	border: 1px solid red;
+	overflow: hidden;
+}
+.img_item{
+	box-sizing: border-box;
+	width: 25%;
+	float: left;
+	padding: 3px;
+}
+.img_item img{
+	width:100%;
+}
